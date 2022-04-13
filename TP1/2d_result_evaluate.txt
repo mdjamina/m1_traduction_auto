@@ -1,0 +1,6 @@
+Word precision: 0.990909090909
+Word recall: 0.990909090909
+Tag precision: 0.954545454545
+Tag recall: 0.954545454545
+Word F-measure: 0.990909090909
+Tag F-measure: 0.954545454545
