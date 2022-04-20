@@ -60,4 +60,3 @@ with open(fileout, 'w') as txtfile:
             txtfile.write(line)
             
             
-#on a baissé le score de la précision sur les tags
