@@ -241,7 +241,7 @@ class CPennTaggedSentenceReader(object):
       lNewLine = []
       for nIndex in xrange(len(lLine)):
          tTagged = tuple(lLine[nIndex].split("_"))
-         assert(len(tTagged)<3)
+         #assert(len(tTagged)<3)
          if len(tTagged)==1:
             tTagged = (tTagged[0], "-NONE-")
          if (bIgnoreNoneTag==False) or (tTagged[0]): # if we take -NONE- tag, or if we find that the tag is not -NONE-

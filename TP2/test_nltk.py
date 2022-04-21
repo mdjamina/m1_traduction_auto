@@ -18,6 +18,8 @@ syntaxiquement le texte du fichier wsj_0010_sample.txt. Le résultat de ce modul
 mis dans le fichier wsj_0010_sample.txt.pos.nltk
 
 """
+
+
 with open ("TP 2/wsj_0010_sample.txt","r") as fsrc:
 
     corpus= fsrc.read()
