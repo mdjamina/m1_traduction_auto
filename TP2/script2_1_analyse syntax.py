@@ -31,7 +31,7 @@ output = chunker.parse(pos_tags)
 print("After Chunking",output)
 
 
-output.draw()
+#output.draw()
 """
 
 grammar = "NP: {<DT>?<JJ>*<NN>}"
