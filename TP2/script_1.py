@@ -9,10 +9,6 @@ from collections import Counter
 from pprint import pprint as pp
 
 
-
-
-
-
 filein = '/home/amina/workspace/github/m1_traduction_auto/TP2/wsj_0010_sample.txt'
 
 fileout = filein+'.pos.nltk2'
@@ -30,8 +26,8 @@ pos_tags = nltk.pos_tag(tokens)
 
 with open(fileout, 'w') as txtfile:
     for token_pos in pos_tags:
-        txtfile.write('\t'.join(token_pos))
-        txtfile.write('\n')
-        #if token_pos[0] == '.':
-         #   txtfile.write('\n')
+        txtfile.write('_'.join(token_pos))
+        txtfile.write(' ')
+        if token_pos[0] == '.':
+            txtfile.write('\n')
 
