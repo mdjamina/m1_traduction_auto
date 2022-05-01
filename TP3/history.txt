@@ -1,0 +1,1033 @@
+  111  /bin/python3 /home/amina/workspace/Master_S2/ProjetEncadre_s2/test_parcour_rep.py
+  112  /bin/python3 /home/amina/workspace/Master_S2/ProjetEncadre_s2/bo1.py
+  113  ls
+  114  python3 bo1.py 2021 3260
+  115  python3 bo1.py 2021 3208
+  116  sudo dpkg -i code_1.64.2-1644445741_amd64.deb 
+  117  sudo dpkg -i discord-0.0.17.deb 
+  118  sudo apt update
+  119  apt list --upgradable -a
+  120  sudo apt upgrade -y
+  121  sudo apt update
+  122  cd workspace/Master_S2/ProjetEncadre_s2/
+  123  python3 bao1.py 2021/3208
+  124  /bin/python3 /home/amina/workspace/examens2/exo1.py
+  125  /bin/python3 /home/amina/workspace/exams2/exo1.py
+  126  mkdir -p /home/amina/workspace/examens2
+  127  ll
+  128  clear
+  129  mkdir -p /home/amina/workspace
+  130  mkdir -p /home/amina/workspace/examens2
+  131  clear
+  132  mkdir -p /home/amina/workspace/exams2/
+  133  /bin/python3 /home/amina/workspace/Master_S2/extraction_infor/exo_extraction.py
+  134  unzip dev-20220302T105847Z-001.zip 
+  135  clear
+  136  pip install pandas
+  137  pip install openpyxl
+  138  /bin/python3 /home/amina/workspace/Master_S2/extraction_infor/generate_annotations_file_dev.py
+  139  /bin/python3 /home/amina/workspace/Master_S2/extraction_infor/exo_extraction.py
+  140  unzip Corpus\ Cours2-20220302T140957Z-001.zip 
+  141  pip install sklearn
+  142  pip install treetaggerwrapper
+  143  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v4.py
+  144  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v1.py
+  145  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v1_cours.py
+  146  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v1_dev.py
+  147  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_split_corpus.py
+  148  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v1_dev.py
+  149  /bin/python3 -m pip install -U autopep8
+  150  python3 exo_extraction.py 
+  151  clear
+  152  python3 exo_extraction.py 
+  153  clear
+  154  lear
+  155  python3 exo_extraction.py 
+  156  clear
+  157  cd
+  158  ll
+  159  mkdir tree-tagger
+  160  cd tree-tagger/
+  161  ll
+  162  sh install-tagger.sh 
+  163  ll
+  164  pwd
+  165  cd cmd
+  166  ll
+  167  pwd
+  168  cd ..
+  169  cd bin
+  170  pwd
+  171  cd ..
+  172  export PATH=$PATH:/home/amina/tree-tagger/bin
+  173  export PATH=$PATH:/home/amina/tree-tagger/cmd
+  174  echo $PATH
+  175  cd
+  176  echo 'Hello world!' | cmd/tree-tagger-english
+  177  echo 'Hello world!' | tree-tagger-english
+  178  echo 'Bonjour madame!' | tree-tagger-french
+  179  pip install pytorch
+  180  claer
+  181  clear
+  182  pip install treetaggerwrapper
+  183  sudo pip install treetaggerwrapper
+  184  pip install treetaggerwrapper
+  185  python3 -m pip install treetaggerwrapper
+  186  pip install treetaggerwrapper --user
+  187  python3
+  188  cd /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src
+  189  python3 script_v1_dev.py 
+  190  pip install –user treetaggerwrapper
+  191  pip install –-user treetaggerwrapper
+  192  echo 'Bonjour madame!' | tree-tagger-french
+  193  pip install spacy
+  194  python -m spacy download fr_core_news_lg
+  195  python3 -m spacy download fr_core_news_lg
+  196  python -m spacy download fr_dep_news_trf
+  197  python3 -m spacy download fr_dep_news_trf
+  198  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v1_dev.py
+  199  pip install -U scikit-learn
+  200  clear
+  201  python3 -c "import sklearn; sklearn.show_versions()"
+  202  pip install sciki-learn
+  203  clear
+  204  python3 -c "import sklearn; sklearn.show_versions()"
+  205  True
+  206  python3 -c "import sklearn; sklearn.show_versions()"
+  207  pip install scikit-learn
+  208  clear
+  209  /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v2_dev.py
+  210  home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/
+  211  cd /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/
+  212  python3 script_v2_dev.py 
+  213  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v2_dev.py
+  214  python~ bao1.py 
+  215  python3 bao1.py 
+  216  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v2_dev.py
+  217  ll
+  218  cd M1_TALB450C_TextMining/
+  219  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v2_dev.py
+  220  /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v2_dev.py
+  221  chmod +x
+  222  --help
+  223  chmod --help
+  224  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/script_v2_dev.py
+  225  sudo apt update
+  226  sudo apt upgrade
+  227  tar xvf tal_tp_1.tar.gz 
+  228  /bin/python3 /home/amina/workspace/Master_S2/traduction/TP_1/scripts/script1.py
+  229  java –version
+  230  sudo apt install default-jre
+  231  java -version
+  232  unzip TP_1/stanford-postagger-2018-10-16.zip 
+  233  cd postagger/
+  234  ./stanford-postagger.sh models/english-left3words-distsim.tagger
+  235  ./stanford-postagger.sh models/english-left3words-distsim.tagger ../TP_1/sample_eng.txt 
+  236  ./stanford-postagger.sh models/english-left3words-distsim.tagger ../TP_1/sample_eng.txt > ../TP_1/sample_eng.txt.pos
+  237  ./stanford-postagger.sh models/english-left3words-distsim.tagger ../TP_1/wsj_0010_sample.txt > ../TP_1/data/wsj_0010_sample.txt.pos.stanford
+  238  /bin/python3 /home/amina/workspace/exams2/exo1.py
+  239  /bin/python3 /home/amina/workspace/github/M1_TAL_POO/S2/ProjetPrononciations.py
+  240  python3 ProjetPrononciations.py basique-pron_dico.dic FRA00101_T2FSL.txt 
+  241  python3 ProjetPrononciations.py basique-pron_dico.dic FRA00101_T2FSL.txt >prnon.txt
+  242  git
+  243  sudo apt update
+  244  sudo apt upgrade -y
+  245  git lfs install
+  246  git
+  247  ./install.sh 
+  248  chmod +x install.sh 
+  249  ./install.sh 
+  250  su -i
+  251  su 
+  252  sudo sh install.sh 
+  253  unzip lang_detector.zip 
+  254  unzip lang_detector.z01
+  255  zip -FF lang_detector.zip --out lang_detector_full.zip
+  256  unzip lang_detector_full.zip 
+  257  zip -FF data.zip --out data_full.zip
+  258  unzip data_full.zip 
+  259  cat phrases_tableur.txt| python3 parser_nltk.py
+  260  cat phrases_tableur.txt| python parser_nltk.py
+  261  cat phrases_tableur.txt| python3 parser_nltk.py
+  262  treetagger
+  263  TreeTagger
+  264  /bin/python3 /home/amina/workspace/github/ExtractionInformation/M1_TALB450C_TextMining/src/test.py
+  265  pwd
+  266  cd 
+  267  pwd
+  268  vim .profile 
+  269  source .profile 
+  270  udpipe
+  271  cd /home/amina/distrib-udpipe-1.2.0-bin/udpipe-1.2.0-bin/bin-linux64/udpipe
+  272  cd /home/amina/distrib-udpipe-1.2.0-bin/udpipe-1.2.0-bin/bin-linux64/
+  273  ll
+  274  chmod +x udpipe 
+  275  cd
+  276  udpipe
+  277  perl parcours-arborescence-fichiers-BAO2-2022.pl ./2021/ 3208
+  278  tree-tagger
+  279  treetagger
+  280  tree-tagger
+  281  tree-tagger-french
+  282  source ../../../.profile 
+  283  tree-tagger-french
+  284  tree-tagger
+  285  udpipe
+  286  pwd
+  287  vim .profile 
+  288  sudo apt install vim
+  289  vim .profile 
+  290  source .profile
+  291  echo 'Bonjour madame!' | tree-tagger-french
+  292  echo 'Bonjour madame!' | tree-tagger
+  293  cd/~treetagger
+  294  history | grep tree
+  295  echo 'Bonjour madame!' | tree-tagger-french
+  296  export PATH=$PATH:/home/amina/tree-tagger/bin
+  297  export PATH=$PATH:/home/amina/tree-tagger/cmd
+  298  echo 'Bonjour madame!' | tree-tagger-french
+  299  sudo apt update
+  300  sudo apt upgrade
+  301  ../postagger/stanford-postagger.sh ../postagger/models/english-left3words-distsim.tagger wsj_0010_sample.txt >wsj_0010_sample.txt.pos.stanford
+  302  cd ../postagger/
+  303  ./stanford-postagger.sh models/english-left3words-distsim.tagger ../TP_1/wsj_0010_sample.txt >../TP_1/wsj_0010_sample.txt.pos.stanford
+  304  cd -
+  305  python3 script1.py wsj_0010_sample.pos.ref wsj_0010_sample.pos.stanford.ref
+  306  ../postagger/stanford-postagger.sh ../postagger/models/english-left3words-distsim.tagger wsj_0010_sample.txt >wsj_0010_sample.txt.pos.stanford
+  307  python
+  308  python2
+  309  sudo apt install python2
+  310  python2
+  311  python2 evaluate.py wsj_0010_sample.pos.stanford
+  312  python2 evaluate.py wsj_0010_sample.pos.stanford wsj_0010_sample.pos.stanford.ref 
+  313  python2 evaluate.py wsj_0010_sample.txt.pos.stanford wsj_0010_sample.pos.stanford.ref 
+  314  unzip stanford-postagger-2018-10-16.zip
+  315  ./stanford-
+  316  postagger.sh models/english-left3words-distsim.tagger
+  317  wsj_0010_sample.txt > wsj_0010_sample.txt.pos.stanford
+  318  cd stanford-postagger-2018-10-16
+  319  clear
+  320  apt-get update
+  321  chmod +x pt-get update
+  322  clear
+  323  chmod +x apt-get update
+  324  clear
+  325  ll
+  326  cd TP_1/
+  327  ./stanford-
+  328  postagger.sh models/english-left3words-distsim.tagger
+  329  wsj_0010_sample.txt > wsj_0010_sample.txt.pos.stanford
+  330  ./stanford-postagger.sh models/english-left3words-distsim.tagger wsj_0010_sample.txt > wsj_0010_sample.txt.pos.stanford
+  331  clear
+  332  ll
+  333  ./postagger/stanford-postagger.sh ./postagger/models/english-left3words-distsim.tagger wsj_0010_sample.txt > wsj_0010_sample.txt.pos.stanford
+  334  cd postagger/
+  335  ./stanford-postagger.sh models/english-left3words-distsim.tagger ../wsj_0010_sample.txt > ../wsj_0010_sample.txt.pos.stanford
+  336  cd ..
+  337  ll
+  338  cd ..
+  339  ll
+  340  pwd
+  341  ll
+  342  cd stanford-ner-2020-11-17
+  343  java -mx600m -cp stanford-ner.jar:lib/*
+  344  edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/english.all.3class.distsim.crf.ser.gz -textFile Sample_NER_en.txt > Sample_NER_en.txt.output
+  345  clear
+  346  cd ..
+  347  touch “Sample_NER_en.txt”
+  348  ll
+  349  touch Sample_NER_en.txt
+  350  ll
+  351  rm “Sample_NER_en.txt”
+  352  ll
+  353  clear
+  354  touch "John ate dicious pizza with friends."> Sample_NER_en.txt 
+  355  cat Sample_NER_en.txt 
+  356  echo "John ate dicious pizza with friends."> Sample_NER_en.txt 
+  357  cat Sample_NER_en.txt 
+  358  python3 script_2b.py wsj_0010_sample.pos.ref wsj_0010_sample.pos.stanford.ref
+  359  python
+  360  python2
+  361  python2 evaluate.py wsj_0010_sample.txt.pos.stanford wsj_0010_sample.pos.stanford.ref 
+  362  python2 evaluate.py wsj_0010_sample.txt.pos.stanford wsj_0010_sample.pos.stanford.ref >result_evaluate.txt
+  363  python2 evaluate.py wsj_0010_sample.txt.pos.stanford wsj_0010_sample.pos.stanford.ref >2c_result_evaluate.txt
+  364  python3 2d_script.py wsj_0010_sample.txt.pos.stanford wsj_0010_sample.txt.pos.univ
+  365  clear
+  366  python3 2d_script.py wsj_0010_sample.txt.pos.stanford wsj_0010_sample.txt.pos.univ
+  367  python3 2d_script.py wsj_0010_sample.pos.stanford.ref wsj_0010_sample.pos.univ.ref
+  368  python2 evaluate.py wsj_0010_sample.txt.pos.univ wsj_0010_sample.pos.univ.ref 
+  369  ./stanford-postagger.sh models/english-left3words-distsim.tagger ../wsj_0010_sample.txt > ../wsj_0010_sample.txt.pos.stanford
+  370  python3 2d_script.py wsj_0010_sample.txt.pos.stanford wsj_0010_sample.txt.pos.univ
+  371  python2 evaluate.py wsj_0010_sample.txt.pos.univ wsj_0010_sample.pos.univ.ref 
+  372  python2 evaluate.py wsj_0010_sample.txt.pos.univ wsj_0010_sample.pos.univ.ref > 2d_result_evaluate.txt
+  373  clear
+  374  apt-get update
+  375  java
+  376  clear
+  377  cd ..
+  378  java
+  379  clear
+  380  java -version
+  381  clear
+  382  cd ..
+  383  cd Téléchargements/
+  384  unzip stanford-ner-2018-10-16.zip
+  385  cd postagger/
+  386  ./stanford-postagger.sh models/english-left3words-distsim.tagger ../wsj_0010_sample.txt > ../wsj_0010_sample.txt.pos.stanford
+  387  java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf
+  388  cd stanford-ner/
+  389  java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf
+  390  cd ..4
+  391  clear
+  392  cd ..
+  393  CRFClassifier -loadClassifier  classifiers/english.all
+  394  java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf
+  395  java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier  classifiers/english.all.3class.distsim.crf.ser.gz -textFile  Sample_NER_en.txt > Sample_NER_en.txt.output
+  396  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP1/evaluate.py
+  397  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP1/script1.py
+  398  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP1/2d_script.py
+  399  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP1/II2_script.py
+  400  ll
+  401  cd 
+  402  cd workspace/github/m1_traduction_auto/TP1/
+  403  java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier  classifiers/english.all.3class.distsim.crf.ser.gz -textFile  Sample_NER_en.txt > Sample_NER_en.txt.output4
+  404  ll
+  405  cd stanford-ner/
+  406  ll
+  407  cd ..
+  408  cd stanford-ner/
+  409  ll
+  410  java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier  classifiers/english.all.3class.distsim.crf.ser.gz -textFile  ../Sample_NER_en.txt > ../Sample_NER_en.txt.output4
+  411  ./stanford-ner.sh ../Sample_NER_en.txt ../Sample_NER_en.txt.output4
+  412  clear
+  413  ./stanford-ner.sh ../Sample_NER_en.txt ../Sample_NER_en.txt.output4
+  414  clear
+  415  ./stanford-ner.sh ../Sample_NER_en.txt ../Sample_NER_en.txt.output4
+  416  ./stanford-ner.sh ../wsj_0010_sample.txt ../wsj_0010_sample.txt.ner.stanford
+  417  rm /var/lib/dpkg/lock
+  418  sudo rm /var/lib/apt/lists/lock
+  419  sudo rm /var/cache/apt/archives/lock
+  420  sudo apt-get update
+  421  sudo apt-get install g++
+  422  sudo apt-get install git
+  423  sudo apt-get install subversion
+  424  sudo apt-get install automake
+  425  sudo apt-get install libtool
+  426  sudo apt-get install zlib1g-dev
+  427  sudo apt-get install libboost-all-dev
+  428  sudo apt-get install liblzma-dev
+  429  sudo apt-get install python-dev
+  430  sudo apt-get install libgoogle-perftools-dev
+  431  sudo apt-get install libboost-all-dev
+  432  sudo apt-get install libbz2-dev
+  433  tar zxvf boost_1_57_0.tar.gz
+  434  cd boost_1_57_0/
+  435  cd boost_1_57_0
+  436  ll
+  437  cd boost_1_57_0
+  438  ./bootstrap.sh
+  439  ./b2 -j8 --prefix=/home/semmar/Inalco/TP_3/boost_1_57_0 --libdir=/home/semmar/Inalco/TP_3/boost_1_57_0/lib64 --layout=system link=static install || echo FAILURE
+  440  clear
+  441  git clone https://github.com/moses-smt/mosesdecoder.git
+  442  cd mosesdecoder/
+  443  ./bjam --with-boost=/home/semmar/Inalco/TP_3/boost_1_57_0 -j8
+  444  cd ..
+  445  cd giza-pp-v1.0.7/
+  446  make
+  447  cd ..
+  448  cd mosesdecoder/
+  449  mkdir tools
+  450  clear
+  451  ll
+  452  cd tools/
+  453  clear
+  454  source Moses.env
+  455  cd ..
+  456  mkdir Experiments/WordAlignment
+  457  mkdir Experiments
+  458  cd Experiments/
+  459  mkdir WordAlignment
+  460  plain2snt.out Europarl_dev_1k.en Europarl_dev_1k.fr
+  461  cd WordAlignment/
+  462  mkcls -pEuroparl_dev_1k.en -VEuroparl_dev_1k.en.vcb.classes
+  463  mkcls -c2 -n2 -pEuroparl_dev_1k.en -VEuroparl_dev_1k.en.vcb.classes
+  464  cd ..
+  465  plain2snt.out Europarl_dev_1k.en Europarl_dev_1k.fr
+  466  cd ..
+  467  plain2snt.out Europarl_dev_1k.en Europarl_dev_1k.fr
+  468  clear
+  469  cd Experiments/
+  470  cd WordAlignment/
+  471  ll
+  472  cd ..
+  473  Moses.env
+  474  source Moses.env
+  475  clear
+  476  ll
+  477  cd giza-pp-v1.0.7/
+  478  ll
+  479  cd giza-pp/
+  480  ll
+  481  cd GIZA++-v2/
+  482  ll
+  483  cd snt2.out
+  484  clear
+  485  cd ..
+  486  cd giza-pp
+  487  ll
+  488  cd GIZA++-v2/
+  489  sudo apt update
+  490  sudp apt upgrade -y
+  491  sudo apt upgrade -y
+  492  python3 -m spacy download fr_core_news_sm
+  493  python3
+  494  pip install -U pip setuptools wheel
+  495  python -m spacy download fr_dep_news_trf
+  496  python3 -m spacy download fr_dep_news_trf
+  497  python3 script.py 
+  498  cd ..
+  499  python3 script.py 
+  500  /bin/python3 /home/amina/workspace/github/Outils_Traitements_Corpus/devoir02/script.py
+  501  /bin/python3 /home/amina/workspace/github/Outils_Traitements_Corpus/devoir02/data/script.py
+  502  /bin/python3 /home/amina/workspace/github/Outils_Traitements_Corpus/devoir02/script.py
+  503  /bin/python3 /home/amina/workspace/github/Outils_Traitements_Corpus/devoir02/script1.py
+  504  jupyter notebook   --NotebookApp.allow_origin='https://colab.research.google.com'   --port=8888   --NotebookApp.port_retries=0
+  505  pip install jupyter_http_over_ws
+  506  jupyter serverextension enable --py jupyter_http_over_ws
+  507  jupyter notebook   --NotebookApp.allow_origin='https://colab.research.google.com'   --port=8888   --NotebookApp.port_retries=0
+  508  python3 test.py 
+  509  clear
+  510  python3 test.py 
+  511  clear
+  512  python3 test.py 
+  513  clear
+  514  python3 test.py 
+  515  clear
+  516  python3 test.py 
+  517  clear
+  518  python3 test.py 
+  519  clear
+  520  python3 test.py 
+  521  clear
+  522  python3 test.py 
+  523  clear
+  524  python3 test.py 
+  525  clear
+  526  python3 test.py 
+  527  ll 
+  528  ll
+  529  python3 script1.py 
+  530  /bin/python3 /home/amina/workspace/github/Outils_Traitements_Corpus/devoir02/script1.py
+  531  /bin/python3 /home/amina/workspace/Master_S2/outils_traitement_corpus/test.py
+  532  /bin/python3 /home/amina/workspace/github/Outils_Traitements_Corpus/devoir02/script2.py
+  533  python3 script2.py 
+  534  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP1/II2_script.py
+  535  /bin/python3 "/home/amina/workspace/Master_S2/traduction/tal_tp_2/TP_2/TP 2/test_nltk.py"
+  536  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/script_1.py
+  537  #python2 evaluate.py wsj_0010_sample.txt.pos.univ wsj_0010_sample.pos.univ.ref 
+  538  cd /home/amina/workspace/github/m1_traduction_auto/TP24
+  539  cd /home/amina/workspace/github/m1_traduction_auto/TP2
+  540  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.ref 
+  541  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.stanford.ref 
+  542  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.stanford.ref > output_result_evaluat.txt
+  543  ll
+  544  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.stanford.ref > output_result_evaluat.txt
+  545  python2 evaluate.py wsj_0010_sample.txt.pos.nltk2 wsj_0010_sample.pos.stanford.ref
+  546  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.stanford.ref
+  547  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.txt.pos.nltk
+  548  python2 evaluate.py wsj_0010_sample.txt.pos.univ.nltk  wsj_0010_sample.pos.univ.ref 
+  549  clear
+  550  python2 evaluate.py wsj_0010_sample.txt.pos.univ.nltk  wsj_0010_sample.pos.univ.ref 
+  551  python2 evaluate.py wsj_0010_sample.txt.pos.univ.nltk  wsj_0010_sample.txt.pos.univ.ref 
+  552  python2 evaluate.py wsj_0010_sample.txt.pos.univ.nltk  wsj_0010_sample.txt.pos.univ.ref > result_3_d.txt
+  553  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.stanford.ref
+  554  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/script_1.py
+  555  python2 evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.stanford.ref
+  556  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/I11_script_compare.py
+  557  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/script3_a.py
+  558  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/script_1.py
+  559  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/script3_a.py
+  560  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/evaluate.py
+  561  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_1_analyse syntax.py"
+  562  python3 script3_a.py wsj_0010_sample.txt.pos.nltk  
+  563  clear
+  564  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_1_analyse syntax.py"
+  565  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_2_analyse syntax.py"
+  566  /bin/python3 /home/amina/workspace/github/transliteration/src/appli.py
+  567  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/test_nltk.py
+  568  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_2_analyse syntax.py"
+  569  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/script_1.py
+  570  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_1_analyse syntax.py"
+  571  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_2_analyse syntax.py"
+  572  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_1_analyse syntax.py"
+  573  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_1_analyse syntax copy.py"
+  574  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_1_analyse syntax.py"
+  575  /bin/python3 "/home/amina/workspace/github/m1_traduction_auto/TP2/script2_1_analyse syntax copy.py"
+  576  /bin/python3 /home/amina/workspace/github/m1_traduction_auto/TP2/script_3_1.py
+  577  cd
+  578  echo $PS1
+  579  vim .bashrc 
+  580  echo $PS1 > ps1.txt
+  581  vim .bashrc 
+  582  source .bashrc 
+  583  cd workspace/
+  584  cd github/
+  585  cd ..
+  586  ll
+  587  cd ..
+  588  vim .bashrc 
+  589  source .bashrc 
+  590  ./ .bashrc 
+  591  .bashrc
+  592  vim .profile 
+  593  . .bashrc
+  594  cd workspace/
+  595  cd ..
+  596  vim .bashrc 
+  597  . .bashrc
+  598  cd workspace/
+  599  cd github/
+  600  PS1="\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\W\[\033[00m\]\$"
+  601  head 
+  602  head --help
+  603  head -n 500 europarl-v7.fr-en>Europarl_test_500.en
+  604  head -n 500 europarl-v7.fr-en.en>Europarl_test_500.en
+  605  head -n 500 europarl-v7.fr-en.fr>Europarl_test_500.fr
+  606  head -n 1500 europarl-v7.fr-en.en| tail -n 1000>Europarl_dev_1k.en
+  607  tail --help
+  608  head -n 1500 europarl-v7.fr-en.en| tail -n +1000 >Europarl_dev_1k.en
+  609  head -n 1500 europarl-v7.fr-en.fr| tail -n 1000>Europarl_dev_1k.fr
+  610  head -n 1500 europarl-v7.fr-en.fr| tail -n +1000 >Europarl_dev_1k.fr
+  611  head -n 10000 europarl-v7.fr-en.en > Europarl_train_10k.en
+  612  head -n 10000 europarl-v7.fr-en.fr > Europarl_train_10k.fr
+  613  cd ..
+  614  ll
+  615  cd E
+  616  cd Experiments/Translation/
+  617  ll
+  618  $MOSES_HOME/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en < Europarl_train_10k.en > Europarl_train_10k.en.tok
+  619  cd ..
+  620  ll
+  621  cd ..
+  622  ll
+  623  cd mosesdecoder/
+  624  ll
+  625  cd ..
+  626  cd Experiments/
+  627  ll
+  628  cd Translation/
+  629  $MOSES_HOME/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en < Europarl_train_10k.en > Europarl_train_10k.en.tok
+  630  MOSES_HOME=$MOSES_HOME/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en < Europarl_train_10k.en > Europarl_train_10k.en.tok
+  631  pwd
+  632  cd ..
+  633  cd mosesdecoder/
+  634  ll
+  635  cd ..
+  636  pwd
+  637  MOSES_HOME=/home/amina/workspace/github/m1_traduction_auto/TP3
+  638  cd Experiments/Translation/
+  639  ll
+  640  $MOSES_HOME/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en < Europarl_train_10k.en > Europarl_train_10k.en.tok
+  641  $MOSES_HOME/mosesdecoder/scripts/tokenizer/tokenizer.perl -l fr < Europarl_train_10k.fr > Europarl_train_10k.fr.tok
+  642  $MOSES_HOME/mosesdecoder/scripts/recaser/train-truecaser.perl --model truecase-model.en --corpus Europarl_train_10k.en.tok
+  643  $MOSES_HOME/mosesdecoder/scripts/recaser/train-truecaser.perl --model truecase-model.fr --corpus Europarl_train_10k.fr.tok
+  644  ll
+  645  $MOSES_HOME/mosesdecoder/scripts/recaser/truecase.perl --model truecase-model.en < Europarl_train_10k.en.tok > Europarl_train_10k.en.tok.true
+  646  $MOSES_HOME/mosesdecoder/scripts/recaser/truecase.perl --model truecase-model.fr < Europarl_train_10k.fr.tok > Europarl_train_10k.fr.tok.true
+  647  ll
+  648  cp Europarl_train_10k.en.tok.true Europarl_train_10k.tok.true.en
+  649  cp Europarl_train_10k.fr.tok.true Europarl_train_10k.tok.true.fr
+  650  $MOSES_HOME/mosesdecoder/scripts/training/clean-corpus-n.perl Europarl_train_10k.tok.true fr en Europarl_train_10k.tok.true.clean 1 80
+  651  wc -l Europarl_train_10k.tok.true.clean.en
+  652  wc -l Europarl_train_10k.tok.true.clean.fr
+  653  clear
+  654  mkdir lm
+  655  cd lm/
+  656  $MOSES_HOME/irstlm/bin/add-start-end.sh </workspace/github/m1_traduction_auto/TP3/Experiments/Translation/Europarl_train_10k.tok.true.en > Europarl_train_10k.tok.true.sb.en
+  657  clear
+  658  $MOSES_HOME/irstlm/bin/add-start-end.sh </workspace/github/m1_traduction_auto/TP3/Experiments/Translation/Europarl_train_10k.tok.true.en > Europarl_train_10k.tok.true.sb.en
+  659  $MOSES_HOME/irstlm/bin/add-start-end.sh </workspace/github/m1_traduction_auto/TP3/Experiments/Translation/ > Europarl_train_10k.tok.true.sb.en
+  660  cd ..
+  661  $MOSES_HOME/irstlm/bin/add-start-end.sh </workspace/github/m1_traduction_auto/TP3/Experiments/Translation/ > Europarl_train_10k.tok.true.sb.en
+  662  ll
+  663  $MOSES_HOME/irstlm/bin/add-start-end.sh </workspace/github/m1_traduction_auto/TP3/Experiments/Translation/ > Europarl_train_10k.tok.true.sb.en
+  664  $MOSES_HOME/irstlm/bin/add-start-end.sh < /workspace/github/m1_traduction_auto/TP_3/Experiments/Translation/Europarl_train_10k.tok.true.en > Europarl_train_10k.tok.true.sb.en
+  665  $MOSES_HOME/irstlm/bin/add-start-end.sh < /workspace/github/m1_traduction_auto/TP_3/Experiments/Translation/Europarl_train_10k > Europarl_train_10k.tok.true.sb.en
+  666  ll
+  667  touch Moses.env
+  668  source Moses.env
+  669  cd Experiments/WordAlignment/
+  670  ll
+  671  rm -f *.snt
+  672  ll
+  673  rm -f *.vcb
+  674  ll
+  675  plain2snt.out Europarl_dev_1k.en Europarl_dev_1k.fr
+  676  mkcls -pEuroparl_dev_1k.en -VEuroparl_dev_1k.en.vcb.classes
+  677  mkcls -pEuroparl_dev_1k.fr -VEuroparl_dev_1k.fr.vcb.classes
+  678  ll
+  679  snt2cooc.out Europarl_dev_1k.en.vcb Europarl_dev_1k.fr.vcb Europarl_dev_1k.en_Europarl_dev_1k.fr.snt > Europarl_dev_1k.en_Europarl_dev_1k.fr.snt.cooc
+  680  ll
+  681  clear
+  682  cd ..
+  683  cll
+  684  ll
+  685  clear
+  686  cd WordAlignment/
+  687  ll
+  688  GIZA++ -S Europarl_dev_1k.fr.vcb -T Europarl_dev_1k.en.vcb -C Europarl_dev_1k.fr_Europarl_dev_1k.en.snt -o giza_ -outputpath output_folder
+  689  mkdir output_folder
+  690  GIZA++ -S Europarl_dev_1k.fr.vcb -T Europarl_dev_1k.en.vcb -C Europarl_dev_1k.fr_Europarl_dev_1k.en.snt -o giza_ -outputpath output_folder
+  691  GIZA++ -S Europarl_dev_1k.en.vcb –T Europarl_dev_1k.fr.vcb –C Europarl_dev_1k.en_Europarl_dev_1k.fr.snt -CoocurrenceFile Europarl_dev_1k.en_Europarl_dev_1k.fr.snt.cooc -o AlignmentResult
+  692  ll
+  693  git clone https://github.com/moses-smt/mgiza.git
+  694  cd mgiza/mgizapp
+  695  cmake
+  696  make
+  697  make install
+  698  clear
+  699  mgiza -S Europarl_1000_en.txt.vcb –T Europarl_1000_fr.txt.vcb –C Europarl_1000_en.txt_Europarl_1000_fr.txt.snt -CoocurrenceFile Europarl_1000_en.txt_Europarl_1000_fr.txt.cooc -o AlignmentResult
+  700  mgiza
+  701  clear
+  702  cd ..
+  703  ll
+  704  cd ..
+  705  ll
+  706  rm -rf mgiza
+  707  cd..
+  708  cd ..
+  709  ll
+  710  rm giza-pp-v1.0.7.tar.gz
+  711  ll
+  712  rm downloads
+  713  ll
+  714  git clone https://github.com/moses-smt/mgiza.git
+  715  cd mgiza/
+  716  ll
+  717  cd mgizapp/
+  718  sudo apt install cmake
+  719  cmake .
+  720  make
+  721  make install
+  722  ll
+  723  pwd
+  724  cd
+  725  mgiza
+  726  cd /home/amina/workspace/github/m1_traduction_auto/TP3/mgiza/mgizapp
+  727  cd bin
+  728  ll
+  729  pwd
+  730  cd ..
+  731  source Moses.env 
+  732  mgiza
+  733  cd Experiments/WordAlignment/
+  734  ll
+  735  mgiza -S Europarl_1000_en.txt.vcb –T Europarl_1000_fr.txt.vcb –C Europarl_1000_en.txt_Europarl_1000_fr.txt.snt -CoocurrenceFile Europarl_1000_en.txt_Europarl_1000_fr.txt.cooc -o AlignmentResult
+  736  mgiza -S Europarl_dev_1k.en.vcb –T Europarl_dev_1k.fr.vcb –C Europarl_dev_1k.en_Europarl_dev_1k.fr.snt -CoocurrenceFile Europarl_dev_1k.en_Europarl_dev_1k.fr.snt.cooc -o MGIZAAlignmentResult
+  737  cd ../..
+  738  wget ftp://ftp.kr.debian.org/macports/mpdistfiles/irstlm/irstlm-5.80.03.tgz
+  739  ll
+  740  tar xvfz irstlm-5.80.03.tgz
+  741  cd irstlm-5.80.03/
+  742  sh regenerate-makefiles.sh --force
+  743  ./configure --prefix=/workspace/github/m1_traduction_auto/TP3/irstlm
+  744  PS1="\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\W\[\033[00m\]\$"
+  745  ll
+  746  cd ..
+  747  cd TP3
+  748  cd Experiments/
+  749  mkdir Translation
+  750  cd Translation/
+  751  cp Europarl_dev_1k.en
+  752  clear
+  753  ll
+  754  cd ..
+  755  rm Translation/
+  756  rm -f Translation/
+  757  clear
+  758  ll
+  759  cd Translation/
+  760  ll
+  761  $MOSES_HOME/irstlm/bin/add-start-end.sh < ./TP_3/Experiments/Translation/Europarl_train_10k.tok.true.en > Europarl_train_10k.tok.true.sb.en
+  762  cd ..
+  763  sudo rm /var/lib/dpkg/lock
+  764  sudo rm /var/lib/apt/lists/lock
+  765  sudo rm /var/cache/apt/archives/lock
+  766  sudo apt-get update
+  767  sudo apt-get install g++
+  768  sudo apt-get install git
+  769  sudo apt-get install subversion
+  770  clear
+  771  sudo apt-get install automake
+  772  sudo apt-get install libtool
+  773  sudo apt-get install zlib1g-dev
+  774  sudo apt-get install libboost-all-dev
+  775  sudo apt-get install libbz2-dev
+  776  sudo apt-get install liblzma-dev
+  777  clear
+  778  sudo apt-get install python-dev
+  779  sudo apt-get install libgoogle-perftools-dev
+  780  boost
+  781  clear
+  782  sudo apt-get install libboost-all-dev
+  783  sudo apt-get install libbz2-dev
+  784  cd Téléchargements/
+  785  tar zxvf boost_1_57_0.tar.gz 
+  786  clear
+  787  cd boost_1_57_0/
+  788  ./bootstrap.sh 
+  789  cd ..
+  790  cd workspace/
+  791  ll
+  792  cd Master_S2/
+  793  cd traduction/
+  794  ll
+  795  cd mt_tp_3/
+  796  cd boost_1_57_0/
+  797  ./bootstrap.sh
+  798  clear
+  799  ./b2 -j8 --prefix=/workspace/Master_S2/traduction/mt_tp_3/boost_1_57_0 --libdir=/workspace/Master_S2/traduction/mt_tp_3/boost_1_57_0/lib64 --layout=system link=static install || echo FAILURE
+  800  clear
+  801  git clone https://github.com/moses-smt/mosesdecoder.git
+  802  cd mosesdecoder/
+  803  ./bjam --with-boost=/workspace/Master_S2/traduction/mt_tp_3/boost_1_57_0 -j8
+  804  clear
+  805  mkdir tools
+  806  ll
+  807  clear
+  808  cp /workspace/Master_S2/traduction/mt_tp_3/giza-pp/GIZA++-v2/GIZA++ /workspace/Master_S2/traduction/mt_tp_3/giza-pp/GIZA++-v2/GIZA++/snt2cooc.out /workspace/Master_S2/traduction/mt_tp_3/giza-pp/mkcls-v2/mkcls /workspace/Master_S2/traduction/mt_tp_3/mosesdecoder/tools
+  809  cd ../..
+  810  source Moses.env
+  811  cd
+  812  ll /var/lib/dpkg/lock
+  813  sudo apt-get update
+  814  sudo apt-get install subversion automake libtool zlib1g-dev libboost-all-dev libbz2-dev liblzma-dev python-dev
+  815  sudo apt autoremove
+  816  sudo apt-get install subversion automake libtool zlib1g-dev libboost-all-dev libbz2-dev liblzma-dev python-dev
+  817  sudo apt-get install libgoogle-perftools-dev
+  818  sudo apt-get install libboost-all-dev
+  819  sudo apt-get install libbz2-dev
+  820  pwd
+  821  wget https://sourceforge.net/projects/boost/files/boost/1.57.0/boost_1_57_0.tar.gz/download
+  822  ll
+  823  wget https://sourceforge.net/projects/boost/files/boost/1.57.0/boost_1_57_0.tar.gz/download
+  824  wget https://freefr.dl.sourceforge.net/project/boost/boost/1.57.0/boost_1_57_0.tar.gz
+  825  ll
+  826  rm -f download download.1 
+  827  ll
+  828  tar zxvf boost_1_57_0.tar.gz
+  829  cd boost_1_57_0/
+  830  ./bootstrap.sh 
+  831  pwd
+  832  ./b2 -j8 --prefix=/home/amina/workspace/github/m1_traduction_auto/TP3/boost_1_57_0 --libdir=/home/amina/workspace/github/m1_traduction_auto/TP3/boost_1_57_0/lib64 --layout=system link=static install || echo FAILURE
+  833  pwd
+  834  cd ..
+  835  git clone https://github.com/moses-smt/mosesdecoder.git
+  836  ll
+  837  cd mosesdecoder/
+  838  ./bjam --with-boost=/home/amina/workspace/github/m1_traduction_auto/TP3/boost_1_57_0 -j8
+  839  cd ..
+  840  wget https://code.google.com/archive/p/moses-suite/downloads
+  841  wget https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/moses-suite/giza-pp-v1.0.7.tar.gz
+  842  ll
+  843  tar zxvf giza-pp-v1.0.7.tar.gz
+  844  cd giza-pp/
+  845  make
+  846  ll
+  847  vim README 
+  848  vim Makefile 
+  849  sudo apt install gcc
+  850  sudo apt install g++
+  851  sudo apt install clang
+  852  make
+  853  cd ..
+  854  rm -rf giza-pp
+  855  ll
+  856  git clone https://github.com/moses-smt/giza-pp.git
+  857  ll
+  858  cd giza-pp/
+  859  make
+  860  cd ..
+  861  cd mosesdecoder/
+  862  mkdir tools
+  863  cd tools/
+  864  cp ../../giza-pp/GIZA++-v2/GIZA++ .
+  865  cp ../../giza-pp/GIZA++-v2/snt2cooc.out .
+  866  cp ../../giza-pp/mkcls-v2/mkcls .
+  867  ll
+  868  cp ../../giza-pp/GIZA++-v2/plain2snt.out .
+  869  ll
+  870  plain2snt.out ../../Experiments/WordAlignment/Europarl_dev_1k.en ../../Experiments/WordAlignment/Europarl_dev_1k.fr
+  871  ./plain2snt.out ../../Experiments/WordAlignment/Europarl_dev_1k.en ../../Experiments/WordAlignment/Europarl_dev_1k.fr
+  872  tar zxvf irstlm-5.80.08.tgz
+  873  cd irstlm-5.80.08/
+  874  export HOME_TP3="/home/amina/workspace/github/m1_traduction_auto/TP3"
+  875  cd trunk/
+  876  ./regenerate-makefiles.sh
+  877  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="$HOME_TP3/irstlm"
+  878  cd $HOME_TP3
+  879  ll
+  880  cd /home/amina/workspace/github/m1_traduction_auto/TP3/irstlm-5.80.08/trunk
+  881  make
+  882  make .
+  883  make 
+  884  ./regenerate-makefiles.sh --force
+  885  ./configure --prefix="$HOME_TP3/irstlm"
+  886  make
+  887  cd ..
+  888  cd /home/amina/workspace/github/m1_traduction_auto/TP3/irstlm-5.80.08
+  889  git clone https://github.com/joewong826/irstlm-5.80.08.git
+  890  ll
+  891  cd irstlm-5.80.08/
+  892  cd trunk/
+  893  ll
+  894  sh regenerate-makefiles.sh --force
+  895  sh regenerate-makefiles.sh 
+  896  ./configure --prefix="$HOME_TP3/irstlm"
+  897  make
+  898  ll
+  899  *
+  900  sudo apt install irstlm
+  901  echo $PATH
+  902  make
+  903  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="$HOME_TP3/irstlm"
+  904  make
+  905  make install
+  906  cd /home/amina/workspace/github/m1_traduction_auto/TP3/irstlm-5.80.08/irstlm-5.80.08/trunk
+  907  ll
+  908  sh regenerate-makefiles.sh 
+  909  cd /tmp/
+  910  git clone https://github.com/joewong826/irstlm-5.80.08.git
+  911  cd irstlm-5.80.08/
+  912  ll
+  913  cd trunk/
+  914  clear
+  915  ll
+  916  sh regenerate-makefiles.sh
+  917  automake --add-missing
+  918  /usr/bin/libtoolize --force; /usr/bin/automake --add-missing ; /usr/bin/autoreconf
+  919  sh regenerate-makefiles.sh --force
+  920  ./configure --prefix="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  921  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  922  make
+  923  automake --add-missing
+  924  /usr/bin/libtoolize --force; /usr/bin/automake --add-missing ; /usr/bin/autoreconf
+  925  automake --add-missing
+  926  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  927  make install
+  928  make
+  929  sh regenerate-makefiles.sh --force
+  930  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  931  make
+  932  sudo find / -name "gcc-base.conf"
+  933  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  934  ll
+  935  sh regenerate-makefiles.sh --force
+  936  sudo sh regenerate-makefiles.sh --force
+  937  sh regenerate-makefiles.sh --force
+  938  which automake
+  939  /usr/bin/automake --add-missing
+  940  cd ..
+  941  rm -rf irstlm-5.80.08
+  942  git clone https://github.com/joewong826/irstlm-5.80.08.git
+  943  cd irstlm-5.80.08/trunk/
+  944  sh regenerate-makefiles.sh --force
+  945  automake --add-missing
+  946  sudo automake --add-missing
+  947  sudo sh regenerate-makefiles.sh --force
+  948  cd ..
+  949  rm -rf irstlm-5.80.08
+  950  git clone https://github.com/joewong826/irstlm-5.80.08.git
+  951  cd irstlm-5.80.08/trunk/
+  952  ll
+  953  pwd
+  954  su -i
+  955  su 
+  956  sudo whoami
+  957  visudo
+  958  usermod -aG sudo amina
+  959  sudo usermod -aG sudo amina
+  960  visudo
+  961  sudo visudo
+  962  sudo vim /etc/sudoers
+  963  sudo whoami
+  964  su 
+  965  su --help
+  966  su - root
+  967  sudo sh regenerate-makefiles.sh --force
+  968  automake --help
+  969  automake -f
+  970  sudo automake -f
+  971  sudo automake -fv
+  972  sudo sh regenerate-makefiles.sh --force
+  973  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  974  make
+  975  ./configure --prefix="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  976  make
+  977  sudo make
+  978  ./configure --prefix="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  979  sudo ./configure --prefix="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  980  sudo make
+  981  sudo cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+  982  make
+  983  make install
+  984  cd ../..
+  985  rm -rf irstlm-5.80.08
+  986  sudo rm -rf irstlm-5.80.08
+  987  git clone https://github.com/joewong826/irstlm-5.80.08.git
+  988  chown -R amina:amina irstlm-5.80.08
+  989  cd irstlm-5.80.08/
+  990  cd trunk/
+  991  ll
+  992  sudo sh regenerate-makefiles.sh
+  993  sudo automake -fv
+  994  sudo sh regenerate-makefiles.sh
+  995  cd ../..
+  996  sudo rm -rf irstlm-5.80.08
+  997  git clone https://github.com/joewong826/irstlm-5.80.08.git
+  998  chown -R amina:amina irstlm-5.80.08
+  999  cd irstlm-5.80.08/trunk/
+ 1000  sudo automake -fv
+ 1001  sh regenerate-makefiles.sh
+ 1002  cd ../..
+ 1003  sudo rm -rf irstlm-5.80.08
+ 1004  git clone https://github.com/joewong826/irstlm-5.80.08.git
+ 1005  chown -R amina:amina irstlm-5.80.08
+ 1006  cd irstlm-5.80.08/trunk/
+ 1007  autoconf
+ 1008  which glibtoolize
+ 1009  sudo apt install glibtoolize
+ 1010  sudo apt-get install git-core cmake libglut3-dev pkg-config build-essential libxmu-dev libxi-dev libusb-1.0-0-dev
+ 1011  sudo apt install git-core cmake libglut3-dev pkg-config build-essential libxmu-dev libxi-dev libusb-1.0-0-dev
+ 1012  sudo apt install cmake libglut3-dev pkg-config build-essential libxmu-dev libxi-dev libusb-1.0-0-dev
+ 1013  sudo apt install  pkg-config build-essential libxmu-dev libxi-dev libusb-1.0-0-dev
+ 1014  sudo apt install cmake
+ 1015  sudo apt update
+ 1016  udo apt-get install libglut3-dev
+ 1017  sudo apt-get install libglut3-dev
+ 1018  sudo apt-get install libglut3
+ 1019  sudo apt install libglut3
+ 1020  sudo apt install libglut3-dev
+ 1021  sudo apt install freeglut3-dev
+ 1022  sudo apt update
+ 1023  which glibtoolize
+ 1024  sudo apt install libglut3-dev
+ 1025  sudo apt-get install libtool m4 automake
+ 1026  ll
+ 1027  which glibtoolize
+ 1028  which libtoolize
+ 1029  sh regenerate-makefiles.sh
+ 1030  ll
+ 1031  rm -rf m4
+ 1032  ll
+ 1033  sudo sh regenerate-makefiles.sh
+ 1034  cd ../..
+ 1035  sudo rm -rf irstlm-5.80.08
+ 1036  git clone https://github.com/joewong826/irstlm-5.80.08.git
+ 1037  cd irstlm-5.80.08/trunk/
+ 1038  sudo sh regenerate-makefiles.sh
+ 1039  sudo /usr/bin/libtoolize --force;sudo /usr/bin/automake --add-missing ;sudo /usr/bin/autoreconf
+ 1040  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1041  make
+ 1042  cd ../..
+ 1043  sudo rm -rf irstlm-5.80.08
+ 1044  git clone https://github.com/joewong826/irstlm-5.80.08.git
+ 1045  cd irstlm-5.80.08/trunk/
+ 1046  vim regenerate-makefiles.sh 
+ 1047  sudo sh regenerate-makefiles.sh 
+ 1048  cd ../..
+ 1049  sudo rm -rf irstlm-5.80.08
+ 1050  git clone https://github.com/joewong826/irstlm-5.80.08.git
+ 1051  cd irstlm-5.80.08/trunk/
+ 1052  ll
+ 1053  autoreconf --install
+ 1054  cd ../..
+ 1055  sudo rm -rf irstlm-5.80.08
+ 1056  git clone https://github.com/joewong826/irstlm-5.80.08.git
+ 1057  cd irstlm-5.80.08/trunk/
+ 1058  mkdir m4
+ 1059  autoreconf --install
+ 1060  autoreconf --help
+ 1061  autoreconf --install -f
+ 1062  echo $?
+ 1063  automake --add-missing
+ 1064  automake --help
+ 1065  automake -f
+ 1066  ./configure --prefix="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1067  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1068  make
+ 1069  make install
+ 1070  env
+ 1071  echo $XDG_SESSION_TYPE
+ 1072  make --help
+ 1073  make -B
+ 1074  make -Bi
+ 1075  make -B
+ 1076  cd ../..
+ 1077  sudo rm -rf irstlm-5.80.08
+ 1078  git clone https://github.com/joewong826/irstlm-5.80.08.git
+ 1079  cd irstlm-5.80.08/branches/nickruiz/
+ 1080  ll
+ 1081  sh regenerate-makefiles.sh 
+ 1082  autoreconf --install -f
+ 1083  automake -f
+ 1084  ll
+ 1085  cd..
+ 1086  cd ..
+ 1087  cd trunk/
+ 1088  ll
+ 1089  sh regenerate-makefiles.sh --force
+ 1090  autoreconf --install -f
+ 1091  automake -
+ 1092  which glibtoolize
+ 1093  libtoolize -f
+ 1094  make -Biv
+ 1095  ./configure --help
+ 1096  echo $CPP
+ 1097  echo $CC
+ 1098  ./configure --prefix="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1099  make -Bi
+ 1100  make install
+ 1101  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1102  make -Bi
+ 1103  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1104  make install
+ 1105  cmake --help
+ 1106  cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1107  cmake --install "/home/amina/workspace/github/m1_traduction_auto/TP3/irstlm"
+ 1108  cmake --install
+ 1109  cmake --install .
+ 1110  history>/home/amina/workspace/github/m1_traduction_auto/TP3/history.txt
+
+
+sudo rm -rf irstlm-5.80.08
+
+git clone https://github.com/joewong826/irstlm-5.80.08.git
+tar xvfz irstlm-5.80.08.tgz
+
+
+mkdir m4
+
+autoreconf --install -f
+
+libtoolize -f
+automake -f -a
+
+
+./configure --prefix="/home/amina/tools/irstlm"
+
+cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX="/home/amina/tools/irstlm"
+
+cmake --install .
+
+make -Bi
+
+make -Bi install
+
+
+
+
+
+
+
+
