@@ -22,7 +22,7 @@ with open(file_nltk, 'r') as fnltk:
     
 pp(ltokens_nltk)
 
-for nltk,ref in zip(ltokens_nltk,ltokens_ref): # 
+for nltk,ref in zip(ltokens_nltk,ltokens_ref): # liste de tuples token et tag_ref
    
         print(ref,nltk)
 

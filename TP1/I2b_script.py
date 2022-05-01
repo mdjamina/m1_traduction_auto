@@ -4,8 +4,8 @@ import sys
 
 args = sys.argv[1:]
 
-
 filein = args[0]
+
 print(filein)
 fileout = args[1]
 print(fileout)

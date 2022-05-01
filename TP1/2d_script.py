@@ -1,14 +1,6 @@
 
 #
-"""
-Remplacer à l’aide d’un programme Python les étiquettes Penn TreeBank des fichiers
-wsj_0010_sample.txt.pos.stanford et
-wsj_0010_sample.pos.stanford.ref par les étiquettes universelles en utilisant
-la table de correspondance « POSTags_PTB_Universal.txt ». Mettre le résultat de
-2cette conversion dans les fichiers : wsj_0010_sample.txt.pos.univ.stanford
-et wsj_0010_sample.txt.pos.univ.ref.
-
-"""
+from re import S
 
 
 import sys 
@@ -16,15 +8,21 @@ import sys
 
 args = sys.argv[1:]
 
-
-filein = args[0]
+ #chemin du fichier de l'entrée
+filein = args[0] 
 #print(filein)
-fileout = args[1]
+
+#chemin du fichier de la sortie
+fileout = args[1] 
 #rint(fileout)
 
 
 
-def load_univ_tags(path_file):
+def load_univ_tags(path_file):  
+    """Méthode pour charger l'univ tags
+    """
+
+    #Initialiser le dictionnaire uniTags pour stocker les tags
     uniTags = {}
     with open(path_file, 'r', newline='') as csvfile:        
         for line in csvfile:
